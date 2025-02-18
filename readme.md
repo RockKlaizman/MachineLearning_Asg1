@@ -73,4 +73,4 @@ If you'd like to contribute to this project, feel free to open Issues or submit 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is under the [MIT License](LICENSE).
